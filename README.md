@@ -49,4 +49,5 @@
   2021年6月03日： 学习StringBuffer, StringBuilder, Date, java.util.Date, java.sql.Date<br>
   2021年6月05日： 学习jdk8的日期类，java的比较器（就像js里的sort方法的实现）System， Math， BigIntege， BigDecimal<br>
   2021年6月06日： 学习enum枚举。感觉比ts里的枚举要复杂一点<br>
+  2021年6月07日： 学习注解<br>
 	
