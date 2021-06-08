@@ -50,4 +50,5 @@
   2021年6月05日： 学习jdk8的日期类，java的比较器（就像js里的sort方法的实现）System， Math， BigIntege， BigDecimal<br>
   2021年6月06日： 学习enum枚举。感觉比ts里的枚举要复杂一点<br>
   2021年6月07日： 学习注解<br>
+  2021年6月08日： 学习元注解，集合,感觉集合就像js里的set方法+数组实现<br>
 	
